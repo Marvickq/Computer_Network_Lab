@@ -33,7 +33,7 @@ To implement an **Error Control Protocol** for detecting and controlling errors 
 ### 9. Retransmission
 **Why needed:** To send the data again when an error is detected but cannot be corrected.
 
-# 💡Lab Experiment No. 3
+# 💡Lab Experiment 3
 
 ## Aim
 
