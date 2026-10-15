@@ -1,3 +1,53 @@
+## ⭐Lab 1: Design a Simple Network Using Different Topologies in Cisco Packet Tracer
+
+### Aim
+To design and simulate simple computer networks using Star, Mesh, Bus, and Extended Star topologies in Cisco Packet Tracer.
+
+### Software Required
+- Cisco Packet Tracer
+
+### Theory
+Network topology refers to the physical or logical arrangement of devices in a computer network. Different topologies provide different levels of reliability, scalability, cost, and ease of maintenance.
+
+### Network Topologies
+
+**1. Star Topology**
+- All computers are connected to a central switch.
+- Easy to manage and troubleshoot.
+- Failure of the central switch affects the entire network.
+
+**2. Mesh Topology**
+- Devices are connected through multiple paths.
+- Provides high reliability and fault tolerance.
+- Requires more connections and cabling.
+
+**3. Bus Topology**
+- All devices share a common communication backbone.
+- Uses less cabling in a traditional bus arrangement.
+- Failure of the main backbone can disrupt the network.
+
+**4. Extended Star Topology**
+- Multiple star networks are connected through a central switch or other network devices.
+- Suitable for larger networks.
+- Allows the network to be expanded easily.
+
+### Procedure
+1. Open Cisco Packet Tracer and create a new project.
+2. Select the required end devices, such as PCs, and network devices, such as switches and routers.
+3. Arrange the devices according to each topology.
+4. Connect the devices using suitable cables.
+5. Configure IP addresses and subnet masks on the PCs. For example, use `192.168.1.1`, `192.168.1.2`, and `192.168.1.3` with subnet mask `255.255.255.0`.
+6. Use the **Add Simple PDU** tool or the `ping` command to test connectivity between devices.
+7. Observe the packet flow and verify successful communication.
+
+### Observations
+- Star topology uses a central switch to connect all devices.
+- Mesh topology provides multiple communication paths between devices.
+- Bus topology uses a shared backbone, while extended star topology connects multiple star networks.
+
+### Result
+Successfully designed and simulated Star, Mesh, Bus, and Extended Star network topologies using Cisco Packet Tracer and studied their structure and connectivity.
+
 # 🚀 Lab Experiment 2
 
 ## Aim
